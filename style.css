@@ -23,6 +23,7 @@ body
 
 canvas
 {
+    border: groove;
     animation-name: example;
 	  animation-duration: 7s;
 	  animation-iteration-count: infinite;
